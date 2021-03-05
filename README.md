@@ -1,2 +1,5 @@
-# echo-2
-The second echo, versions 1.0.0 open beta to the latest version
+# Echo 2.1
+## a fork of Echo 2
+
+A bigger and better version of @QrexxWasTaken's game, Echo 2.
+Enjoy!
